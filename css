@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type= "text/css">
+body {
+  background-color: SlateGray;
+}
+h1 {
+  color: Aqua;
+  margin-left: 20px;
+}
+P {
+  color:White
+  margin-left: 40px;
+  text-indent: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  line-height: 1.8;
+}
+.image_container3
+{
+  float:left;
+  margin-left:auto;
+  margin-right:auto;
+  width:728px;
+  border:1px solid #c3c3c3;
+  margin-bottom: 10px;
+  padding:10px;
+  padding-top:0px;
+  text-align:center;
+}
+
+</style>
+</head>
